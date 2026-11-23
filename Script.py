@@ -3,7 +3,7 @@ class Script:
     START_TXT = """
 <b>Join @SRKPRIMEMAX
 Free content, movies, files & services — all in one place.Daily Updates
-✅ By SRKSupports ✨<b>"""
+✅ By SRKSupports ⚡<b>"""
 
     # Premium information shown in the upgrade menu
     UPGRADE_TEXT = """
