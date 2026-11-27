@@ -24,8 +24,8 @@ Free content, movies, files & services — all in one place.Daily Updates
 
 🎁 Premium Plan Cost 📩
 
-💎 ₹060/1 Month | 💎 ₹110/2 Month
-💎 ₹155/3 Month | 💎 ₹300/6 Month
+💎 ₹079/1 Month | 💎 ₹109/2 Month
+💎 ₹149/3 Month | 💎 ₹249/6 Month
 
 पेमेंट का स्क्रीनशॉट यह पर भेजे, फिर आपको प्रीमियम ग्रुप के add किया जाएगा 👇
 </b>
@@ -35,24 +35,24 @@ Free content, movies, files & services — all in one place.Daily Updates
     PREMIUM_TEXT = (
         "**💎 Premium User Benefits:**\n\n"
         "✅ Premium Channel and Group\n"
-        "✅ No ads, ever\n"
-        "✅ Instant movie files\n"
-        "✅ Ai language scanning\n"
-        "✅ Chrome Download & Streaming\n"
+        "✅ Ad-Free Experience\n"
+        "✅ Instant Access to Available Content\n"
+        "✅ Multi-Language Support\n"
+        "✅ Download & Streaming Support\n"
         "✅ No daily verification required.\n\n"
         "**📩 Premium Plan Cost**\n\n"
-        "💠 Plan 1: ₹99 – 1 Month\n"
+        "💠 Plan 1: ₹79 – 1 Month\n"
         "💠 Plan 3: ₹149 – 3 Months\n"
-        "💠 Plan 4: ₹269 – 6 Months\n"
-        "💠 Plan 5: ₹499 – 12 Months\n\n"
-        "<b>📤 After completing the payment, click the button below and send your payment screenshot. Your premium access will be activated shortly.</b>"
+        "💠 Plan 4: ₹249 – 6 Months\n"
+        "💠 Plan 5: ₹399 – 12 Months\n\n"
+        "<b>📤 After completing the payment, click the button below and I've Paid ✅. Your premium access will be activated shortly.</b>"
     )
     PREMIUM_DEMO_BUTTON = ("📌 Buy Premium ~ Demo Video 📌", "https://t.me/srkmax/11")
     PREMIUM_PLAN_BUTTONS = [
-        ("1 Month - ₹99", "phonpeapi_99_30"),
-        ("3 Month - ₹149", "phonpeapi_149_90"),
-        ("6 Month - ₹269", "phonpeapi_269_180"),
-        ("1 Year - ₹499", "phonpeapi_499_365"),
+        ("💎 SUBSCRIBE NOW — ₹79", "phonpeapi_79_30"),
+        ("👑 SUBSCRIBE NOW — ₹149", "phonpeapi_149_90"),
+        ("🔥 SUBSCRIBE NOW — ₹249", "phonpeapi_249_180"),
+        ("🏆 SUBSCRIBE NOW — ₹399", "phonpeapi_399_365"),
     ]
     PREMIUM_BACK_BUTTON = ("← Back", "home")
 
@@ -79,8 +79,8 @@ Free content, movies, files & services — all in one place.Daily Updates
         "• 💰 Amount: ₹{amount} INR\n"
         "• ⏳ Valid for: {days} days\n\n"
         "Thank you for joining the SRK Family! ❤‍🩹\n\n"
-        "Please send your payment screenshot to the bot. After verification, you will receive access to the Premium Channel and Group. 👇\n\n"
-        "🤖 Bot: @SRKPremium_Channel_bot"
+        "Please Start Bot below link 👇.After verification, you will receive access to the Premium Channel and Group. 👇\n\n"
+        "🤖 Bot: https://t.me/SRKPremium_Channel_bot"
     )
 
     # Premium activation success messages
@@ -88,6 +88,8 @@ Free content, movies, files & services — all in one place.Daily Updates
         "**⭐ Congratulations** **{name}**\n\n"
         "You’re now a premium member for **{duration} days.**\n"
         "**🗓 Expiry Date:** {expiry_date}\n\n"
+        "Please Start Bot below link 👇.After verification, you will receive access to the Premium Channel and Group. 👇\n\n"
+        "🤖 Bot: https://t.me/SRKPremium_Channel_bot"
         "Use /info to check your premium status."
     )
     CODE_PREMIUM_SUCCESS_TEXT = (
@@ -96,4 +98,7 @@ Free content, movies, files & services — all in one place.Daily Updates
         "⏱ Duration: {duration} days\n"
         "📅 Expires: {expiry_date}\n\n"
         "🎉 Enjoy your premium features!"
+        "Please Start Bot below link 👇.After verification, you will receive access to the Premium Channel and Group. 👇\n\n"
+        "🤖 Bot: https://t.me/SRKPremium_Channel_bot"
     )
+    
